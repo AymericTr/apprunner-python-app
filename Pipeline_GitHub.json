@@ -7,12 +7,12 @@
         "BranchName": {
             "Description": "GitHub branch name",
             "Type": "String",
-            "Default": "master"
+            "Default": "main"
         },
         "RepositoryName": {
             "Description": "GitHub repository name",
             "Type": "String",
-            "Default": "myrepo"
+            "Default": "https://github.com/AymericTr/apprunner-python-app.git"
         },
         "ECRRepoName": {
             "Description": "Name of ECR to be created",
